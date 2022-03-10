@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: ps1.pdf
 uid: 6a01d13e-6d4a-859a-55dd-5cd3e7346f60
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

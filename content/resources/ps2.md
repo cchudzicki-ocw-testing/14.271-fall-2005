@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: ps2.pdf
 uid: b425f83f-1183-def9-5e8f-5febde9e2f27
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

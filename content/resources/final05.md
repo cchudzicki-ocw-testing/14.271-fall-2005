@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: final05.pdf
 uid: fcaa4e9e-6b70-deb0-2490-27b9e3ea4547
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

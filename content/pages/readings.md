@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: a85edc99-ad27-00f5-b901-03c3cb2dd918
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the required and supplemental readings for the course. Readings are also presented by [session](#readings).

@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: ps5.pdf
 uid: c011d998-5734-b963-0a08-75337fdcf5f0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

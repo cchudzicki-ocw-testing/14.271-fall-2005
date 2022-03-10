@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: ps7.pdf
 uid: 07eb22a1-31da-bdb5-1a74-0a04a7d1cf13
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

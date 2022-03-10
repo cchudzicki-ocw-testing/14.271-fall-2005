@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 30b20a0f-e2f4-1d3e-f041-fbf727b1ff05
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains the midterm and 3-hour final exam for the course.

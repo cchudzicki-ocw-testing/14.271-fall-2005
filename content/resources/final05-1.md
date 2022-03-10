@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: final05.pdf
 uid: c35a45f7-e7a2-fc4c-36b8-875931bb2b3c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

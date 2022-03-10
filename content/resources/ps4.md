@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: ps4.pdf
 uid: 20f4d648-3ace-3302-cdef-1deabc7f0cf3
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
