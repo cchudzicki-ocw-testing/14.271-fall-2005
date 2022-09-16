@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-271-industrial-organization-i-fall-2005/07eb22a131dabdb51a740a04a7d1cf13_ps7.pdf
+file: /media/courses/14-271-industrial-organization-i-fall-2005/07eb22a131dabdb51a740a04a7d1cf13_ps7.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: ps7.pdf

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The assignments section contains the problem sets for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -19,8 +20,8 @@ Problem Set 2 ({{% resource_link 1a9125d9-f396-6e36-0cf7-2cd047bc9a8e "PDF" %}})
 
 ### Data for Problem Set 2
 
-*   broiler.csv ([CSV](/courses/economics/14-271-industrial-organization-i-fall-2005/assignments/broiler.csv))
-*   berryLogit.csv ([CSV](/courses/economics/14-271-industrial-organization-i-fall-2005/assignments/berrylogit.csv))
+*   broiler.csv ({{% resource_link "9549c662-5691-610b-da88-2d36452fe145" "CSV" %}})
+*   berryLogit.csv ({{% resource_link "ff3c9576-5a8a-d52b-e2ca-0e62b0ef5478" "CSV" %}})
 
 Problem Set 3 ({{% resource_link a1ea49a3-aace-d936-b9e5-1642272895e3 "PDF" %}})
 
